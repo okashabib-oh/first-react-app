@@ -7,9 +7,9 @@ function App() {
     <>
       <h1 id='name'>Okasha Habib</h1>
       
-      <img src={reactLogo} alt="App Logo" />
+      <img className='logo react logo-spin' src={reactLogo} alt="App Logo" />
 
-      <img src={viteLogo} alt="App Logo" />
+      <img className='logo vite' src={viteLogo} alt="App Logo" />
 
     </>
   )
